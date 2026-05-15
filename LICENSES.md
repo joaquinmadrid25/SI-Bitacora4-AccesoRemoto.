@@ -1,4 +1,5 @@
-# LINCENCIA DE INFRAESTRUCTURA
+# UD07. T01. Elaboración de documentación técnica y uso de aplicaciones de propósito general
+# Licencia de Infraestructura
 
 Alumno:Joaquin Madrid del Toro
 Ciclo:Desarrollo de Aplicaciones Web
