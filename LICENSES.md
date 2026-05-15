@@ -2,6 +2,7 @@
 # Licencia de Infraestructura
 
 Alumno:Joaquin Madrid del Toro
+
 Ciclo:Desarrollo de Aplicaciones Web
 
 Este documento detalla el marco legal y las licencias asociadas a los componentes de la infraestructura del proyecto, clasificándolos según su propósito y origen
